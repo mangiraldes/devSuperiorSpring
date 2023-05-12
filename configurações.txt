@@ -1,0 +1,2 @@
+ usuario banco docker postgres : postgres
+			senha  : 1234567
